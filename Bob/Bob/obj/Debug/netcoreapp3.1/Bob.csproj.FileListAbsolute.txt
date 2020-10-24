@@ -1,0 +1,12 @@
+/Users/user/Projects/Bob/Bob/bin/Debug/netcoreapp3.1/Bob.deps.json
+/Users/user/Projects/Bob/Bob/bin/Debug/netcoreapp3.1/Bob.runtimeconfig.json
+/Users/user/Projects/Bob/Bob/bin/Debug/netcoreapp3.1/Bob.runtimeconfig.dev.json
+/Users/user/Projects/Bob/Bob/bin/Debug/netcoreapp3.1/Bob.dll
+/Users/user/Projects/Bob/Bob/bin/Debug/netcoreapp3.1/Bob.pdb
+/Users/user/Projects/Bob/Bob/obj/Debug/netcoreapp3.1/Bob.csprojAssemblyReference.cache
+/Users/user/Projects/Bob/Bob/obj/Debug/netcoreapp3.1/Bob.AssemblyInfoInputs.cache
+/Users/user/Projects/Bob/Bob/obj/Debug/netcoreapp3.1/Bob.AssemblyInfo.cs
+/Users/user/Projects/Bob/Bob/obj/Debug/netcoreapp3.1/Bob.csproj.CoreCompileInputs.cache
+/Users/user/Projects/Bob/Bob/obj/Debug/netcoreapp3.1/Bob.dll
+/Users/user/Projects/Bob/Bob/obj/Debug/netcoreapp3.1/Bob.pdb
+/Users/user/Projects/Bob/Bob/obj/Debug/netcoreapp3.1/Bob.genruntimeconfig.cache
